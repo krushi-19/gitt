@@ -1,6 +1,6 @@
 class Bsort
 {
-
+// comments
   void ssort(int arr[]){
    int n = arr.length;
    for(int i=0; i<n-1;i++){     // n-1:- no of passes so start from 0 and goes upto n-1
